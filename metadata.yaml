@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '7150'
     url: http://www.gutenberg.org/2009/agents/7150
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17115#Fruits-of-Toil-in-the-London-Missionary-Society
 gutenberg_issued: '2005-11-20'
 gutenberg_type: Text
 identifiers:
