@@ -1,0 +1,27 @@
+_repo: Fruits-of-Toil-in-the-London-Missionary-Society_17115
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17115-h/images/frontcover.jpg
+creator:
+  editor:
+    agent_name: London Missionary Society
+    alias: Society, London Missionary
+    gutenberg_agent_id: '7150'
+    url: http://www.gutenberg.org/2009/agents/7150
+description: ''
+gutenberg_issued: '2005-11-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17115'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London Missionary Society -- Missions'
+- !lcc 'BV'
+- !lcsh 'London Missionary Society -- History'
+- !lcsh 'Missions -- History -- 19th century'
+title: Fruits of Toil in the London Missionary Society
+url: http://www.gutenberg.org/ebooks/17115
